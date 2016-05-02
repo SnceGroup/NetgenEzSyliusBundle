@@ -11,7 +11,7 @@
     ],
     "require": {
         "ezsystems/ezpublish-kernel": "*",
-        "sylius/sylius": "~0.14.0"
+        "sylius/sylius": "~0.17.0"
     },
     "target-dir": "Netgen/Bundle/EzSyliusBundle",
     "autoload": {
